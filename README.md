@@ -1,4 +1,4 @@
-## Hey 👋, I'm tobit bushenyula kabuya, a computer science student, studying android devellopment and data science , ready to work remotely !💻  
+## Hey 👋, I'm tobit bushenyula kabuya, a computer science student, studying android devellopment, python and data science , ready to work remotely !💻  
   
 
 <a href="https://github.com/tobitdacoder" target="_blank">
